@@ -1,1 +1,1 @@
-# -HACKcember2021-Loesungen
+# HACKcember2021-Loesungen
